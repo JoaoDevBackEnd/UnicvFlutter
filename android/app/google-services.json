@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "93248186447",
+    "firebase_url": "https://Unicv-avisos-default-rtdb.firebaseio.com",
+    "project_id": "Unicv-avisos",
+    "storage_bucket": "Unicv-avisos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327732651338:android:5278af761248ea17ca4db3",
+        "android_client_info": {
+          "package_name": "com.example.Unicv-avisos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9ugmVTzUhKYsqFovHZydMg2mYcfQkWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327732651338:android:11590cb5774eee43ca4db3",
+        "android_client_info": {
+          "package_name": "com.example.tela_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9ugmVTzUhKYsqFovHZydMg2mYcfQkWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
